@@ -21,7 +21,7 @@ I build Python applications with interactive Streamlit dashboards, FastAPI backe
 - **Data Preparation:** Data cleansing, handling missing values and duplicates, preprocessing, scaling, and feature engineering
 - **Machine Learning:** Supervised and unsupervised learning, model training, hyperparameter tuning, and model evaluation
 - **LLMs & Generative AI:** OpenAI APIs, Hugging Face models and inference services, and local model execution with Ollama
--  **Models Explored:** Phi-3 and Mistral through Ollama
+- **Models Explored:** Phi-3 and Mistral through Ollama
 - **AI Application Techniques:** Prompt engineering, retrieval-augmented generation (RAG), text summarization, conversational interfaces, and natural-language-to-SQL analytics
 - **Application Architecture:** Full-stack applications, REST APIs, FastAPI backends, and Streamlit dashboards
 - **Cloud & Deployment:** AWS EC2, Systems Manager (SSM), Elastic IPs, Render, Streamlit Community Cloud, and integration of local and cloud-hosted AI models
@@ -29,7 +29,12 @@ I build Python applications with interactive Streamlit dashboards, FastAPI backe
 -  **Information Retrieval:** Local document retrieval using scikit-learn’s TfidfVectorizer, character n-grams, and cosine similarity over approved bilingual policy documents
 - **AI Application Architecture:** Direct tool integration for policy search, product lookup, recommendations, and retention scores
 - **Engineering Decisions:** Selecting lightweight, deterministic retrieval methods suited to a small document collection, with attention to privacy, explainability, and dependency management
-
+- **Containers & Services:** Docker and Docker Compose for packaging applications and coordinating frontend, backend, and supporting services
+- **Experiment Tracking & Model Management:** MLflow experiments, parameter and metric logging, model artifacts, model registry, and model aliases
+- **MLOps:** Reproducible training pipelines, configuration-driven experiments, model evaluation, versioning, and deployment for prediction serving
+- **AutoML:** H2O AutoML for training and comparing fraud detection models
+- **Performance Testing:** Locust for API load testing, simulating concurrent users, and measuring response times, throughput, and failure rates
+- 
 ## Extra Extra
 
 - 🔭 I’m currently working on **Boreal Marche**, my final project. It includes a [public portfolio repository](https://github.com/AIQwerty-practice/boreal_marche_portfolio_package) and two private repositories: the **Release Package** and the **Core Final Project**.
