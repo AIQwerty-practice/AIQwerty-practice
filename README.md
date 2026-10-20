@@ -36,6 +36,20 @@ Skills developed and explored across my projects:
 - **Performance Testing:** Locust for API load testing, simulating concurrent users, and measuring response times, throughput, and failure rates
 - **Networking & Web Infrastructure:** NGINX reverse proxy configuration, DNS record management, and pointing domains and subdomains to application servers
 
+## 🎓 Education & Applied Learning
+
+I’m completing a program focused on applied artificial intelligence and data science, with an emphasis on turning data into insights, predictive models, and deployed applications.
+
+My coursework and projects develop skills in:
+
+- **Business Problem-Solving:** Translating business questions into analytical tasks and using findings to support decisions and recommendations
+- **Statistical & Predictive Analysis:** Exploring relationships between variables, identifying trends, and evaluating predictive models
+- **Data Acquisition & Preparation:** Extracting, cleaning, transforming, and organizing structured and unstructured data
+- **Experimentation:** Designing experiments, comparing modeling approaches, and documenting results reproducibly
+- **Machine Learning & AI:** Applying regression, classification, clustering, decision trees, neural networks, and generative AI
+- **Data Communication:** Presenting findings through visualizations, dashboards, technical documentation, and stakeholder presentations
+- **Application Delivery:** Developing and deploying AI tools, APIs, and interactive applications
+
 ## 🌱 Current Work & Interests
 
 - 🔭 I’m currently working on **Boreal Marché**, my final project. It includes a [public portfolio repository](https://github.com/AIQwerty-practice/boreal_marche_portfolio_package) and two private repositories: the **Release Package** and the **Core Final Project**.
