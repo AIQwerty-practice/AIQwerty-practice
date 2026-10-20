@@ -25,7 +25,7 @@ I build Python applications with interactive Streamlit dashboards, FastAPI backe
 - **AI Application Techniques:** Prompt engineering, retrieval-augmented generation (RAG), text summarization, conversational interfaces, and natural-language-to-SQL analytics
 - **Application Architecture:** Full-stack applications, REST APIs, FastAPI backends, and Streamlit dashboards
 - **Cloud & Deployment:** AWS EC2, Systems Manager (SSM), Elastic IPs, Render, Streamlit Community Cloud, and integration of local and cloud-hosted AI models
-- **Development Practices:** Git, GitHub, dependency management, environment variables, and secrets management
+- **Development Practices:** Git, GitHub, repository rulesets, branch protection, pull requests, dependency management, environment variables, and secrets management
 
 ## Extra Extra
 
