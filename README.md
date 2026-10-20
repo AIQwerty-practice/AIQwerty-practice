@@ -14,15 +14,18 @@ I build Python applications with interactive Streamlit dashboards, FastAPI backe
 
 ## 🛠️ Technologies & Skills
 
-- **Programming & Data:** Python, pandas, SQL, SQLite
-- **Statistics & Analysis:** Exploratory data analysis (EDA), descriptive statistics, data visualization, and interpreting results
+## 🛠️ Technologies & Skills
+
+- **Programming & Data:** Python, pandas, SQL, and SQLite
+- **Statistics & Analysis:** Exploratory data analysis (EDA), descriptive statistics, data visualization, and interpretation of results
 - **Data Preparation:** Data cleansing, handling missing values and duplicates, preprocessing, scaling, and feature engineering
 - **Machine Learning:** Supervised and unsupervised learning, model training, hyperparameter tuning, and model evaluation
-- **AI & Chatbots:** Hugging Face, large language models (LLMs), and retrieval-augmented generation (RAG)
+- **LLMs & Generative AI:** OpenAI APIs, Hugging Face models and inference services, and local model execution with Ollama
+-  **Models Explored:** Phi-3 and Mistral through Ollama
+- **AI Application Techniques:** Prompt engineering, retrieval-augmented generation (RAG), text summarization, conversational interfaces, and natural-language-to-SQL analytics
 - **Application Architecture:** Full-stack applications, REST APIs, FastAPI backends, and Streamlit dashboards
-- **Cloud Architecture & Deployment:** AWS EC2, Systems Manager (SSM), Elastic IPs, Render, and Streamlit Community Cloud
+- **Cloud & Deployment:** AWS EC2, Systems Manager (SSM), Elastic IPs, Render, Streamlit Community Cloud, and integration of local and cloud-hosted AI models
 - **Development Practices:** Git, GitHub, dependency management, environment variables, and secrets management
-
 
 ## Extra Extra
 
