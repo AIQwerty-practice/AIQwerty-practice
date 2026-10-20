@@ -37,6 +37,7 @@ Skills developed and explored across my projects:
 - **Networking & Web Infrastructure:** NGINX reverse proxy configuration, DNS record management, and pointing domains and subdomains to application servers
 - **Creative AI & Image Generation:** Writing and refining detailed prompts to guide image composition, style, lighting, and visual consistency
 - **Project Management:** Defining project scope, breaking work into milestones, prioritizing tasks, tracking progress, and coordinating deliverables
+- **Budget Planning & Cost Awareness:** Estimating project costs, comparing hosting and AI service options, monitoring resource usage, and balancing functionality, performance, and budget
 - **AI-Assisted Development:** Collaborating with AI coding agents to plan implementations, investigate issues, develop features, and refine documentation, while reviewing generated code and validating results
 - **Multilingual Applications:** Developing interfaces, content, and AI-assisted experiences in French and English, with planned Spanish support and attention to localization and language consistency
 - **Data Residency & Privacy:** Considering where application data is stored and processed, cloud hosting regions, and cross-border data flows when selecting infrastructure and external AI services
