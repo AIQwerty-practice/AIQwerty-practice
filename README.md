@@ -26,6 +26,9 @@ I build Python applications with interactive Streamlit dashboards, FastAPI backe
 - **Application Architecture:** Full-stack applications, REST APIs, FastAPI backends, and Streamlit dashboards
 - **Cloud & Deployment:** AWS EC2, Systems Manager (SSM), Elastic IPs, Render, Streamlit Community Cloud, and integration of local and cloud-hosted AI models
 - **Development Practices:** Git, GitHub, repository rulesets, branch protection, pull requests, dependency management, environment variables, and secrets management
+-  **Information Retrieval:** Local document retrieval using scikit-learn’s TfidfVectorizer, character n-grams, and cosine similarity over approved bilingual policy documents
+- **AI Application Architecture:** Direct tool integration for policy search, product lookup, recommendations, and retention scores
+- **Engineering Decisions:** Selecting lightweight, deterministic retrieval methods suited to a small document collection, with attention to privacy, explainability, and dependency management
 
 ## Extra Extra
 
