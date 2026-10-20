@@ -37,7 +37,9 @@ Skills developed and explored across my projects:
 - **Networking & Web Infrastructure:** NGINX reverse proxy configuration, DNS record management, and pointing domains and subdomains to application servers
 - **Creative AI & Image Generation:** Writing and refining detailed prompts to guide image composition, style, lighting, and visual consistency
 - **Project Management:** Defining project scope, breaking work into milestones, prioritizing tasks, tracking progress, and coordinating deliverables
-
+- **AI-Assisted Development:** Collaborating with AI coding agents to plan implementations, investigate issues, develop features, and refine documentation, while reviewing generated code and validating results
+- **Multilingual Applications:** Developing interfaces, content, and AI-assisted experiences in French and English, with planned Spanish support and attention to localization and language consistency
+  
 ## 🎓 Education & Applied Learning
 
 I’m completing a program focused on applied artificial intelligence and data science, with an emphasis on turning data into insights, predictive models, and deployed applications.
@@ -57,3 +59,7 @@ My coursework and projects develop skills in:
 - 🔭 I’m currently working on **Boreal Marché**, my final project. It includes a [public portfolio repository](https://github.com/AIQwerty-practice/boreal_marche_portfolio_package) and two private repositories: the **Release Package** and the **Core Final Project**.
 - 🌱 I’m learning to deploy end-to-end machine learning applications using supervised and unsupervised learning, integrate document retrieval and LLMs into a chatbot, and deploy on AWS EC2 using SSM and Elastic IPs.
 - 🤔 I’m looking for ideas for fun and interesting apps.
+  
+## ⚖️ Responsible AI & Governance
+
+I aim to build AI applications with clear limitations, documented data sources, secure handling of credentials, and human review of generated outputs. My approach emphasizes fairness, privacy, transparency, explainability, and accountability, with attention to applicable legal requirements and data and software licenses.
