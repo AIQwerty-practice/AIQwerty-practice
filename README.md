@@ -35,6 +35,8 @@ Skills developed and explored across my projects:
 - **AutoML:** H2O AutoML for training and comparing fraud detection models
 - **Performance Testing:** Locust for API load testing, simulating concurrent users, and measuring response times, throughput, and failure rates
 - **Networking & Web Infrastructure:** NGINX reverse proxy configuration, DNS record management, and pointing domains and subdomains to application servers
+- **Creative AI & Image Generation:** Writing and refining detailed prompts to guide image composition, style, lighting, and visual consistency
+- **Project Management:** Defining project scope, breaking work into milestones, prioritizing tasks, tracking progress, and coordinating deliverables
 
 ## 🎓 Education & Applied Learning
 
