@@ -34,6 +34,7 @@ Skills developed and explored across my projects:
 - **MLOps:** Reproducible training pipelines, configuration-driven experiments, model evaluation, versioning, and deployment for prediction serving
 - **AutoML:** H2O AutoML for training and comparing fraud detection models
 - **Performance Testing:** Locust for API load testing, simulating concurrent users, and measuring response times, throughput, and failure rates
+- **Networking & Web Infrastructure:** NGINX reverse proxy configuration, DNS record management, and pointing domains and subdomains to application servers
 
 ## 🌱 Current Work & Interests
 
