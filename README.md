@@ -14,7 +14,7 @@ I build Python applications with interactive Streamlit dashboards, FastAPI backe
 
 ## 🛠️ Technologies & Skills
 
-## 🛠️ Technologies & Skills
+Skills developed and explored across my projects:
 
 - **Programming & Data:** Python, pandas, SQL, and SQLite
 - **Statistics & Analysis:** Exploratory data analysis (EDA), descriptive statistics, data visualization, and interpretation of results
@@ -26,7 +26,7 @@ I build Python applications with interactive Streamlit dashboards, FastAPI backe
 - **Application Architecture:** Full-stack applications, REST APIs, FastAPI backends, and Streamlit dashboards
 - **Cloud & Deployment:** AWS EC2, Systems Manager (SSM), Elastic IPs, Render, Streamlit Community Cloud, and integration of local and cloud-hosted AI models
 - **Development Practices:** Git, GitHub, repository rulesets, branch protection, pull requests, dependency management, environment variables, and secrets management
--  **Information Retrieval:** Local document retrieval using scikit-learn’s TfidfVectorizer, character n-grams, and cosine similarity over approved bilingual policy documents
+- **Information Retrieval:** Local document retrieval using scikit-learn’s `TfidfVectorizer`, character n-grams, and cosine similarity over approved bilingual policy documents
 - **AI Application Architecture:** Direct tool integration for policy search, product lookup, recommendations, and retention scores
 - **Engineering Decisions:** Selecting lightweight, deterministic retrieval methods suited to a small document collection, with attention to privacy, explainability, and dependency management
 - **Containers & Services:** Docker and Docker Compose for packaging applications and coordinating frontend, backend, and supporting services
@@ -34,11 +34,9 @@ I build Python applications with interactive Streamlit dashboards, FastAPI backe
 - **MLOps:** Reproducible training pipelines, configuration-driven experiments, model evaluation, versioning, and deployment for prediction serving
 - **AutoML:** H2O AutoML for training and comparing fraud detection models
 - **Performance Testing:** Locust for API load testing, simulating concurrent users, and measuring response times, throughput, and failure rates
-- 
-## Extra Extra
 
-- 🔭 I’m currently working on **Boreal Marche**, my final project. It includes a [public portfolio repository](https://github.com/AIQwerty-practice/boreal_marche_portfolio_package) and two private repositories: the **Release Package** and the **Core Final Project**.
-- 🌱 I’m learning to deploy end-to-end machine learning applications using supervised and unsupervised learning, integrate RAG and LLMs into a chatbot, and deploy on AWS EC2 using SSM and Elastic IPs.
+## 🌱 Current Work & Interests
+
+- 🔭 I’m currently working on **Boreal Marché**, my final project. It includes a [public portfolio repository](https://github.com/AIQwerty-practice/boreal_marche_portfolio_package) and two private repositories: the **Release Package** and the **Core Final Project**.
+- 🌱 I’m learning to deploy end-to-end machine learning applications using supervised and unsupervised learning, integrate document retrieval and LLMs into a chatbot, and deploy on AWS EC2 using SSM and Elastic IPs.
 - 🤔 I’m looking for ideas for fun and interesting apps.
- 
-
