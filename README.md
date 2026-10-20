@@ -14,7 +14,7 @@ I build Python applications with interactive Streamlit dashboards, FastAPI backe
 
 ## 🛠️ Technologies
 
-Python · Streamlit · FastAPI · pandas · scikit-learn · SQLite · Hugging Face · GitHub · Render
+Python · Streamlit · FastAPI · pandas · scikit-learn · SQLite · Hugging Face · GitHub · Render · AWS
 
 
 ## Extra Extra
