@@ -12,13 +12,16 @@ I build Python applications with interactive Streamlit dashboards, FastAPI backe
 | 💳 Spending Analytics | Explore spending patterns, classify transactions, and ask questions about transaction data. | [Launch app](https://spendinganalytics.streamlit.app/) | [GitHub](https://github.com/AIQwerty-practice/SpendingAnalytics) |
 | 🧠 AI Knowledge Base | Manage personal notes and summarize content with AI. | [Launch app](https://aiknowledgebase.streamlit.app/) | [GitHub](https://github.com/AIQwerty-practice/AI_Knowledge_Base) |
 
-## 🛠️ Technologies & Methods
+## 🛠️ Technologies & Skills
 
-- **Development:** Python, Streamlit, FastAPI
-- **Data & Machine Learning:** pandas, scikit-learn, SQLite, supervised and unsupervised learning
-- **AI:** Hugging Face, large language models (LLMs), retrieval-augmented generation (RAG)
-- **Cloud & Deployment:** AWS EC2, AWS Systems Manager (SSM), Elastic IPs, Render
-- **Version Control:** Git, GitHub
+- **Programming & Data:** Python, pandas, SQL, SQLite
+- **Statistics & Analysis:** Exploratory data analysis (EDA), descriptive statistics, data visualization, and interpreting results
+- **Data Preparation:** Data cleansing, handling missing values and duplicates, preprocessing, scaling, and feature engineering
+- **Machine Learning:** Supervised and unsupervised learning, model training, hyperparameter tuning, and model evaluation
+- **AI & Chatbots:** Hugging Face, large language models (LLMs), and retrieval-augmented generation (RAG)
+- **Application Architecture:** Full-stack applications, REST APIs, FastAPI backends, and Streamlit dashboards
+- **Cloud Architecture & Deployment:** AWS EC2, Systems Manager (SSM), Elastic IPs, Render, and Streamlit Community Cloud
+- **Development Practices:** Git, GitHub, dependency management, environment variables, and secrets management
 
 
 ## Extra Extra
