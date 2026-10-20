@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I’m AIQwerty-practice 👋
 
-<!--
-**AIQwerty-practice/AIQwerty-practice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build Python applications with interactive Streamlit dashboards, FastAPI backends, and machine learning features.
 
-Here are some ideas to get you started:
+## 🚀 Explore My Apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Description | Live App | Source Code |
+|---|---|---|---|
+| 🧸 POPMart Collector Predictor | A collector prediction project. | [Launch app](https://popmartcollectorpredictor.streamlit.app/) | [GitHub](https://github.com/AIQwerty-practice/popmart_collector_predictor) |
+| 📝 Task Manager | Create, organize, complete, and delete tasks. | [Launch app](https://practicefastapi.streamlit.app/) | [GitHub](https://github.com/AIQwerty-practice/practicefastapi) |
+| 🏋️ ProFit Workout Manager | Log workouts, track activity, and explore fitness analytics. | [Launch app](https://workout-ai.streamlit.app/) | [GitHub](https://github.com/AIQwerty-practice/WorkoutAPI) |
+| 💳 Spending Analytics | Explore spending patterns, classify transactions, and ask questions about transaction data. | [Launch app](https://spendinganalytics.streamlit.app/) | [GitHub](https://github.com/AIQwerty-practice/SpendingAnalytics) |
+| 🧠 AI Knowledge Base | Manage personal notes and summarize content with AI. | [Launch app](https://aiknowledgebase.streamlit.app/) | [GitHub](https://github.com/AIQwerty-practice/AI_Knowledge_Base) |
+
+## 🛠️ Technologies
+
+Python · Streamlit · FastAPI · pandas · scikit-learn · SQLite · Hugging Face · GitHub · Render
+
+
+## Extra Extra
+
+- 🔭 I’m currently working on **Boreal Marche**, my final project. It includes a [public portfolio repository](https://github.com/AIQwerty-practice/boreal_marche_portfolio_package) and two private repositories: the **Release Package** and the **Core Final Project**.
+- 🌱 I’m learning to deploy end-to-end machine learning applications using supervised and unsupervised learning, integrate RAG and LLMs into a chatbot, and deploy on AWS EC2 using SSM and Elastic IPs.
+- 🤔 I’m looking for ideas for fun and interesting apps.
+ 
+
